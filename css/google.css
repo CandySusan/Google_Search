@@ -19,7 +19,7 @@ body{
     background-image: url("../images/google.PNG");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position:50%;
     margin-top: 15px;
 }
 /* div.google-image{
