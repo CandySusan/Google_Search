@@ -122,7 +122,7 @@ input{
     padding: 12px 10px;
     border:none;
     border-color: black;
-    background: url("../images/mic.svg.png");
+    background: url("../images/mic.png");
     background-repeat:no-repeat scroll right 4px;
     padding-right:40px;
 }
