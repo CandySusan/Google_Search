@@ -3,4 +3,4 @@ Google Search Engine
 The googlre search engine workds in such  a way that When a user clicks the “Google Search” button, validation should be done to check whether or not they typed something in the search field.
 
 If they did, then the user gets an alert with what they typed, 
-(https://raw.githubusercontent.com/candysusan/google_search/develop/images/to/validation.png
+![alt text](https://raw.githubusercontent.com/candysusan/google_search/develop/images/to/validation.png
